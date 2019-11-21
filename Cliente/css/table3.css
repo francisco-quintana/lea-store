@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
+
+#this{
+    text-align: center;
+}
+#ya{
+    width:50%;
+    border-block-end: 0;
+    border-block-start: 0;
+
+}
+table{
+    width:100%;
+    height:27em;
+    table-layout: fixed;
+    padding-top:2em;
+    padding-bottom:5em;
+}
+#emptiness{
+
+    width:100%;
+    height:27em;
+}
+#da{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:5em;
+    text-align: center;
+}
+#text{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:1em;
+    text-align:center;
+
+}
+#del{
+
+    color:#000000;
+
+}
